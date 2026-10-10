@@ -7,7 +7,7 @@ I’m currently working on SQL and data visualization projects, building dashboa
 I’m hoping to learn from experienced data analysts, discover smarter and more efficient ways to work with data, and continue developing the technical skills needed to grow into a data analyst role. If this is you, I hope we can connect! 🤝🏼
 
 # 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=akmfb&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=akmfb&theme=onedark&hide_border=false)<br/>
