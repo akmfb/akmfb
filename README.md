@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi, I'm Akimi!<br><br>I’m currently working on SQL and visualization projects, building dashboards and cleaning messy datasets while improving how I tell stories with data. I’m looking for help from more experienced data analysts so I can learn smarter, more efficient ways to use SQL and level up my data visualization skills. I’m also learning more in‑depth SQL window functions, CTEs, and joins, along with Tableau layout and interactivity tricks to make my dashboards cleaner and more intuitive.
 
 
