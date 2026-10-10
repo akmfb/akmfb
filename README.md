@@ -1,5 +1,4 @@
-# 💫 About Me
-Hi, I'm Aki!
+# 💫Hi, I'm Aki!
 
 I’m an aspiring data analyst transitioning from an operational team leadership role into the technical side of data analytics. My experience in leadership sparked my interest in data analysis, especially the process of creating Excel and Salesforce reports, cleaning and manipulating datasets, and turning raw data into actionable insights that support better decision-making.
 
