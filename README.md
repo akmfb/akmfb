@@ -4,7 +4,7 @@ I’m an aspiring data analyst transitioning from an operational team leadership
 
 I’m currently working on SQL and data visualization projects, building dashboards, and cleaning messy datasets while improving my ability to tell compelling stories with data. I’m continuing to strengthen my SQL skills, particularly with window functions, CTEs, and joins, while exploring Tableau layout and interactivity techniques to create cleaner, more intuitive, and user-friendly dashboards.
 
-I’m hoping to learn from experienced data analysts, discover smarter and more efficient ways to work with data, and continue developing the technical skills needed to grow into a data analyst role. If this is you, I hope we can connect!
+I’m hoping to learn from experienced data analysts, discover smarter and more efficient ways to work with data, and continue developing the technical skills needed to grow into a data analyst role. If this is you, I hope we can connect! 🤝🏼
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
