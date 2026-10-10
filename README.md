@@ -9,7 +9,4 @@ Hi, I'm Akimi!<br><br>I’m currently working on SQL and visualization projects,
 ![](https://streak-stats.demolab.com/?user=akmfb&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akmfb&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=akmfb&icon=9&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
