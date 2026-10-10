@@ -1,6 +1,6 @@
 # 🍂 Hi, I'm Aki!
 
-I’m an aspiring data analyst transitioning from an operational team leadership role into the technical side of data analytics. My experience in leadership sparked my interest in data analysis, especially the process of creating Excel and Salesforce reports, cleaning and manipulating datasets, and turning raw data into actionable insights that support better decision-making.
+I’m an aspiring data analyst transitioning from an operational leadership role into the technical side of data analytics. My experience in leadership sparked my interest in data analysis, especially the process of creating Excel and Salesforce reports, cleaning and manipulating datasets, and turning raw data into actionable insights that support better decision-making.
 
 I’m currently working on SQL and data visualization projects, building dashboards, and cleaning messy datasets while improving my ability to tell compelling stories with data. I’m continuing to strengthen my SQL skills, particularly with window functions, CTEs, and joins, while exploring Tableau layout and interactivity techniques to create cleaner, more intuitive, and user-friendly dashboards.
 
